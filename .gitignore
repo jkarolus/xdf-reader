@@ -1,5 +1,6 @@
 # all data files
 *.xdf
+*.csv
 
 /.idea
 
