@@ -1,6 +1,6 @@
 # all data files
 *.xdf
-*.csv
+/data_extracted
 
 /.idea
 
